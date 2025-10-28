@@ -12,7 +12,8 @@ This is a simple product management app built with **React**, **Vite**, and **Ty
 ### 1. Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/oapanova/berries.git
+cd berries
 ````
 
 ### 2. Install dependencies
@@ -51,6 +52,7 @@ npm run preview
 - Vite
 - TypeScript
 - CSS Modules
+- MUI (Material UI)
 - Redux Toolkit
 
 ### Notes
